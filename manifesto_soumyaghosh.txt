@@ -1,0 +1,16 @@
+==========================================
+     MY OPEN SOURCE MANIFESTO
+     Created on: 31 March 2026
+==========================================
+
+As a developer, I recognize the power of community-driven software.
+My favorite tool in this journey has been MYSQL.
+
+To me, Open Source represents the freedom to Transparency cause we can audit the source code and see how data is handled.
+Knowledge should not be locked behind proprietary gates.
+
+I pledge to contribute back by building An open source data analytics dashboard for students
+and sharing it freely under a FOSS license (like GPL or MIT).
+
+Signed,
+soumyaghosh
